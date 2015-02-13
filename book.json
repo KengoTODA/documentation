@@ -6,5 +6,9 @@
             "Contact us / Support": "https://www.gitbook.com/contact"
         }
     },
+    "variables": {
+        "UserName": "{{UserName}}",
+        "Book": "{{Book}}"
+    },
     "pluginsConfig": {}
 }
